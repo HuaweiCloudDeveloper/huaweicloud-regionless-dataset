@@ -19,7 +19,7 @@ There are some explainations of the dataset for avoiding users' confusion.
 2. For the data of a tenant, the region and VM type without record at a specific date represents the tenant does not use it at this date.
 3. For the data of a tenant, if there's no record during a specific day, it means the tenant does not use VMs at this day.
 
-We encourage anyone to use the datasets for study or research purposes, and if you had any question when using the datasets, please file an issue on Github. Filing an issue is recommanded as the discussion would help all the community. Note that the more clearly you ask the question, the more likely you would get a clear answer.
+We encourage anyone to use the datasets for study or research purposes, and if you had any question when using the datasets, please file an issue. Filing an issue is recommanded as the discussion would help all the community. Note that the more clearly you ask the question, the more likely you would get a clear answer.
 
 We are open source based on Apache License V2.0. When using datasets, please follow the open source protocol, and cite our paper.
 
